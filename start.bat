@@ -1,0 +1,10 @@
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
+start d_windows_amd64.exe
